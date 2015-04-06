@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 3 resources" deleteContents="false" description="Delete 3 resources" element1="/PagerSlidingTabStriplibrary" element2="/PagingSliding" element3="/XMPPChatDemoActivity" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="3" stamp="1428299075273"/>
+</session>

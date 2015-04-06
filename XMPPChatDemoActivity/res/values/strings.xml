@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">XMPPChatDemoActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_add_friend">Add Friend</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_registration">RegistrationActivity</string>
+    <string name="title_activity_other">Friend</string>
+    <string name="title_activity_friend_request">FriendRequestActivity</string>
+    <string name="title_activity_file_transfer">FileTransferActivity</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

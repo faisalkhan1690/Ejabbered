@@ -1,0 +1,8 @@
+https://github.com/ArchipelProject/Archipel/wiki/Ejabberd:-Preparing-Ejabberd-(Windows-Like)
+Ejabbered version - ejabberd-2.1.11-windows-installer.exe
+	https://www.process-one.net/en/ejabberd/archive/
+Psi - psi-0.15-win32-setup.exe
+	http://psi-im.org/download/
+	
+	Used Libraries: 
+	1. https://github.com/hishamMuneer/PagerSlidingTabStrip

@@ -1,0 +1,5 @@
+INDEX VERSION 1.126+C:\Users\Good N\Documents\GitHub\Ejabbered\.metadata\.plugins\org.eclipse.jdt.core
+2812902050.index
+3977553611.index
+2793243027.index
+1284074322.index
