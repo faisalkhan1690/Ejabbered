@@ -1181,7 +1181,7 @@ containing a value of this type.
     }
     public static final class id {
         public static final int LinearLayout1=0x7f09003c;
-        public static final int action_add_friend=0x7f090062;
+        public static final int action_add_friend=0x7f090063;
         public static final int action_bar=0x7f09001c;
         public static final int action_bar_activity_content=0x7f090001;
         public static final int action_bar_container=0x7f09001b;
@@ -1193,17 +1193,17 @@ containing a value of this type.
         public static final int action_menu_divider=0x7f090002;
         public static final int action_menu_presenter=0x7f090003;
         public static final int action_mode_close_button=0x7f090024;
-        public static final int action_settings=0x7f090061;
+        public static final int action_settings=0x7f090062;
         public static final int activity_chooser_view_content=0x7f090025;
         public static final int always=0x7f09000f;
         public static final int beginning=0x7f090016;
-        public static final int btnLogin=0x7f09004e;
-        public static final int btnRegister=0x7f09004f;
+        public static final int btnLogin=0x7f09004f;
+        public static final int btnRegister=0x7f090050;
         public static final int btnRejectFriend=0x7f090046;
         public static final int btnblockfriend=0x7f090048;
         public static final int btnfriendRequest=0x7f090042;
         public static final int btnfriendRequestsubs=0x7f090044;
-        public static final int chatET=0x7f090057;
+        public static final int chatET=0x7f090058;
         public static final int checkbox=0x7f09002d;
         public static final int collapseActionView=0x7f090010;
         public static final int colors=0x7f090040;
@@ -1211,10 +1211,10 @@ containing a value of this type.
         public static final int dialog=0x7f090014;
         public static final int disableHome=0x7f090009;
         public static final int dropdown=0x7f090015;
-        public static final int editUserName=0x7f09005a;
+        public static final int editUserName=0x7f09005b;
         public static final int edit_query=0x7f090030;
         public static final int end=0x7f090017;
-        public static final int etPwd=0x7f09004d;
+        public static final int etPwd=0x7f09004e;
         public static final int etUsername=0x7f090041;
         public static final int etUsernameRejectId=0x7f090045;
         public static final int etUsernameblock=0x7f090047;
@@ -1226,14 +1226,14 @@ containing a value of this type.
         public static final int icon=0x7f09002a;
         public static final int ifRoom=0x7f090011;
         public static final int image=0x7f090027;
-        public static final int imgDocument=0x7f090056;
-        public static final int ivStatus=0x7f090050;
-        public static final int linearLayout2=0x7f090055;
-        public static final int listMessages=0x7f090054;
+        public static final int imgDocument=0x7f090057;
+        public static final int ivStatus=0x7f090051;
+        public static final int linearLayout2=0x7f090056;
+        public static final int listMessages=0x7f090055;
         public static final int listMode=0x7f090006;
         public static final int list_item=0x7f090029;
-        public static final int lvFriendId=0x7f09005b;
-        public static final int lvFriends=0x7f09004c;
+        public static final int lvFriendId=0x7f09005c;
+        public static final int lvFriends=0x7f09004d;
         public static final int lvGroupList=0x7f09003d;
         public static final int middle=0x7f090018;
         public static final int never=0x7f090012;
@@ -1253,7 +1253,7 @@ containing a value of this type.
         public static final int search_plate=0x7f090036;
         public static final int search_src_text=0x7f090037;
         public static final int search_voice_btn=0x7f09003b;
-        public static final int sendBtn=0x7f090058;
+        public static final int sendBtn=0x7f090059;
         public static final int shortcut=0x7f09002e;
         public static final int showCustom=0x7f09000b;
         public static final int showHome=0x7f09000c;
@@ -1262,22 +1262,23 @@ containing a value of this type.
         public static final int submit_area=0x7f090039;
         public static final int tabMode=0x7f090008;
         public static final int tabs=0x7f09003e;
-        public static final int text1=0x7f09005f;
+        public static final int text1=0x7f090060;
         public static final int title=0x7f09002b;
-        public static final int toET=0x7f090053;
+        public static final int toET=0x7f090054;
         public static final int top_action_bar=0x7f090020;
-        public static final int tvAccept=0x7f09005e;
+        public static final int tvAccept=0x7f09005f;
         public static final int tvCreateGroup=0x7f09004a;
-        public static final int tvDenny=0x7f09005d;
+        public static final int tvDenny=0x7f09005e;
         public static final int tvFriedRequest=0x7f090049;
-        public static final int tvFriendName=0x7f09005c;
-        public static final int tvGroupName=0x7f090060;
+        public static final int tvFriendName=0x7f09005d;
+        public static final int tvGroupList=0x7f09004c;
+        public static final int tvGroupName=0x7f090061;
         public static final int tvLogout=0x7f09004b;
-        public static final int txtFileTransfer=0x7f090052;
-        public static final int txtStatus=0x7f090051;
+        public static final int txtFileTransfer=0x7f090053;
+        public static final int txtStatus=0x7f090052;
         public static final int up=0x7f090021;
         public static final int useLogo=0x7f09000e;
-        public static final int viewImage=0x7f090059;
+        public static final int viewImage=0x7f09005a;
         public static final int withText=0x7f090013;
     }
     public static final class integer {

@@ -23,8 +23,6 @@
             android:id="@+id/tvCreateGroup"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_alignParentRight="true"
-            android:layout_centerInParent="true"
             android:layout_toLeftOf="@+id/tvLogout"
             android:layout_toRightOf="@+id/tvFriedRequest"
             android:padding="10dp"
@@ -39,6 +37,17 @@
             android:layout_gravity="right"
             android:padding="10dp"
             android:text="Logout"
+            android:textStyle="bold" />
+        
+        <TextView
+            android:id="@+id/tvGroupList"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_gravity="right"
+            android:padding="10dp"
+            android:text="Group List"
+            android:layout_below="@+id/tvFriedRequest"
             android:textStyle="bold" />
     </RelativeLayout>
 

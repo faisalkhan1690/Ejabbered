@@ -1,20 +1,15 @@
 package com.example.xmppchatdemoactivity;
 
 import java.util.ArrayList;
-
 import org.jivesoftware.smack.Roster;
 import org.jivesoftware.smack.RosterEntry;
 import org.jivesoftware.smack.RosterGroup;
 import org.jivesoftware.smack.XMPPException;
-import org.jivesoftware.smack.packet.Packet;
 import org.jivesoftware.smackx.Form;
 import org.jivesoftware.smackx.muc.MultiUserChat;
-import org.jivesoftware.smackx.packet.MUCUser;
-
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.ActionBarActivity;
-import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.MotionEvent;
@@ -23,7 +18,6 @@ import android.view.View.OnClickListener;
 import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemClickListener;
 import android.widget.ArrayAdapter;
-import android.widget.EditText;
 import android.widget.ListView;
 import android.widget.TextView;
 
@@ -36,6 +30,7 @@ public class HomeActivity extends ActionBarActivity {
 	private TextView tvFriedRequest;
 	private TextView tvLogout;
 	private TextView tvCreateGroup;
+	private TextView tvGroupList;
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
@@ -188,6 +183,21 @@ public class HomeActivity extends ActionBarActivity {
 				return userEntry;
 			}
 		});
+		
+		//Faisal 
+		tvGroupList = (TextView) findViewById(R.id.tvGroupList);
+		tvGroupList.setOnClickListener(new OnClickListener() {
+
+			@Override
+			public void onClick(View v) {
+				// Group list
+				Intent i = new Intent(getApplicationContext(), GroupList.class);
+				startActivity(i);
+
+			}
+		});
+		
+		
 	}
 
 	@Override
